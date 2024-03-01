@@ -73,7 +73,9 @@ Expand Visualization Tools: Utilize advanced visualization tools like radar char
 
 ## License and Citation
 
-The football data utilized in this project is sourced from public domains dedicated to sports statistics. Please adhere to the specific licensing agreements of the datasets used.
+The SQLite database used for this project, containing football data, was sourced from Kaggle. The data is available for non-commercial use under its respective license. Users are required to cite the dataset and its contributors when using it for their projects.
+When using this dataset, please ensure to follow Kaggle's rules and terms of service. Please note that while the dataset is freely available for non-commercial purposes, it remains the intellectual property of the data provider or competition organizer.
+For more information on the dataset, its usage rights, or to download it, please visit the Kaggle website at www.kaggle.com.
 
 ## Contributions
 
