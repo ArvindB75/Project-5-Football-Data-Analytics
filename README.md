@@ -39,7 +39,7 @@ Radar Module: "Finally, to meet a specific request from Cedric, we incorporated 
 Summary and Discussion: "This overview captures the journey we undertook for this project. I am now open to your questions and ready to delve into any aspects you wish to explore."
 
 ```
-![Radar des caractéristiques des joueurs]([/chemin_vers_l'image/pbi5.JPG](https://github.com/ArvindB75/Project-5-Football-Data-Analytics/blob/main/Power%20BI/pbi5.JPG))
+![Radar des caractéristiques des joueurs](https://github.com/ArvindB75/Project-5-Football-Data-Analytics/blob/main/Power%20BI/pbi5.JPG))
 ```
 
 ## Installation Instructions
